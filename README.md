@@ -37,7 +37,7 @@ Key components include:
 ### Steps
    Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deep-face-detection.git
+   git clone https://github.com/Pragateeshwaran/Deep-Face-Detection.git
    cd deep-face-detection
    ```
  
